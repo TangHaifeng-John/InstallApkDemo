@@ -103,4 +103,3 @@
 
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
 
-Demo地址:https://github.com/TangHaifeng-John/InstallApkDemo
